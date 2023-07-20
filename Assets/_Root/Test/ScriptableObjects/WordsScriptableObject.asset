@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e602ea2ac8448fa8634d89855d92d5, type: 3}
+  m_Name: WordsScriptableObject
+  m_EditorClassIdentifier: 
+  WordsList:
+  - FirstLanguage: 1
+    SecondLanguage: 1
+  - FirstLanguage: 2
+    SecondLanguage: 2
+  - FirstLanguage: 3
+    SecondLanguage: 3
+  - FirstLanguage: 4
+    SecondLanguage: 4
+  - FirstLanguage: 5
+    SecondLanguage: 5
+  - FirstLanguage: 6
+    SecondLanguage: 6
+  - FirstLanguage: 7
+    SecondLanguage: 7
+  - FirstLanguage: 8
+    SecondLanguage: 8
+  - FirstLanguage: 9
+    SecondLanguage: 9
+  - FirstLanguage: 10
+    SecondLanguage: 10
+  - FirstLanguage: 11
+    SecondLanguage: 11
